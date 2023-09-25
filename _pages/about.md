@@ -5,9 +5,7 @@ header:
   image: /assets/images/about-header-1566x403.jpg 
 ---
 
-https://chriskhanhtran.github.io/assets/images/about-me.png
-
-<img src="https://chriskhanhtran.github.io/assets/images/about-me.png" width="250">{: .align-center}
+<img src="https://yangshiteng.github.io/assets/images/about-me.png" width="250">{: .align-center}
 
 [Resume](https://chriskhanhtran.github.io/cv/){: .btn .btn--info} [Portfolio](https://chriskhanhtran.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/chriskhanhtran/){: .btn .btn--info}
 {: .text-center}
