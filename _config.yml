@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Tran" # "Site Title"
+title                    : "Shiteng Yang" # "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chris Tran"
-description              : "Chris Tran's Portfolio"
+name                     : "Shiteng Yang"
+description              : "Shiteng Yang's Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"    # should leave empty
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris Tran"
+  name             : "Shiteng Yang"
   avatar           : "/assets/images/profile-photo.png"
   bio              : "<i>A learner,<br>a runner,<br> a stargazer.</i>"
   location         :
@@ -115,13 +115,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:tranduckhanh96@gmail.com
+      url: mailto:yangshiteng007@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/chriskhanhtran"
+      url: "https://github.com/yangshiteng"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/chriskhanhtran/"
+      url: "https://www.linkedin.com/in/shiteng-yang-173939102/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chriskhanhtran"
@@ -143,10 +143,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/chriskhanhtran   
+      url: https://github.com/yangshiteng   
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/chriskhanhtran/
+      url: https://www.linkedin.com/in/shiteng-yang-173939102/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chriskhanhtran"
