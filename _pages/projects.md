@@ -1,12 +1,12 @@
 ---
-permalink: /portfolio/
-title: "Portfolio"
+permalink: /projects/
+title: "Projects"
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 
 ---
-*Updated: 08/12/2020*
+*Updated: 09/30/2023*
 
 ## 🤖 Computer Vision
 ### Object Detection with Detectron2
