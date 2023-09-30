@@ -122,12 +122,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shiteng-yang-173939102/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chriskhanhtran"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
@@ -147,12 +141,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/in/shiteng-yang-173939102/
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chriskhanhtran"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg      
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    # url:
