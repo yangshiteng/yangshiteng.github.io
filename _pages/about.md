@@ -3,8 +3,10 @@ title: "About"
 permalink: /about/
 header:
   image: /assets/images/header.png
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bookmark"
 ---
-
 <img src="https://yangshiteng.github.io/assets/images/about-me.png" width="1000">{: .align-center}
 
 [Resume](https://yangshiteng.github.io/cv/){: .btn .btn--info} [Portfolio](https://yangshiteng.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/shiteng-yang-173939102/){: .btn .btn--info}
