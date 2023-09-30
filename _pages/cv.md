@@ -14,92 +14,81 @@ toc_icon: "bookmark"
 - LinkedIn: [linkedin.com/in/chriskhanhtran/](https://www.linkedin.com/in/shiteng-yang-173939102/)
 
 ## 💼 Experience
-### Etsy, Inc.
-***Computer Vision Intern***
+### Amrock, LLC
+***Data Scientist***
 
-*July 2020 - Present, Brooklyn, NY*
+*Jan 2022 - Present, Detroit, MI*
 
--	Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.
--	Developed and trained Deep Siamese model to extract aesthetic features from listing pictures to recommend style-matching items.
--	Trained object detection and image segmentation models on Etsy’s datasets with Detectron2.
+-	Utilized Python to implement exploratory data analysis, algorithms optimization and machine learning models
+development (eg. XGBoost) for a total of 9 modules in an API platform that provides client data auto-validation service,
+which greatly improved the performance of this platform by reducing the overall false passing rate from 30% to 4%
+-	Built a data access module enabling the client data auto-validation platform to independently access third-party data
+sources, resulting in a significant reduction of the data missing rate from 12% to 3%
+-	Deployed a data extractor service to production to help business team automate the parsing and typing process of a
+business clause, lowering the error rate from 11% to only 1% and reducing the workload on policy examiners
+- Query, mine and analyze large complex data sets using SQL and Python to answer business questions
 
-### Skim AI Technologies, Inc.
-***Machine Learning Researcher (NLP)***
+### Rocket Companies
+***Data Scientist Intern***
 
-*October 2019 – Present, New York, NY*
+*May 2019 – Aug 2019, Detroit, MI*
 
-- Trained and deployed MobileBERT for document summarization on mobile devices, achiving 5.5x faster speed while attaining 95% of BERT-large's performance.
--	Trained deep learning models (Transformers, CNN, RNN-LSTM) for document classification and named entity recognition tasks to extract information from legal documents, achieving 0.95 F1 score and saving client hundred hours of manual labeling.
--	Pretrained Spanish BERT and ELECTRA models from scratch on 18 GB of Open Super-large Crawled Corpus (OSCAR) using multiple GPUs on AWS EC2 instances, achieving state-of-the-art results on Spanish benchmarks.
-- Vectorized documents with pretrained word vectors such as Word2vec, fastText and ELMo to feed classification algorithms.
--	Researched latest NLP and CV papers on regular basis, reported findings to CTO and wrote codes to reproduce research results.
+- Completed an urgent request to fix an issue of incompatibility with Scikit-learn tree models by utilizing the Python
+sklearn-json package in just 2 days, which was much earlier than the expected deadline
+-	Wrangled large, complex data sets to provide insight into opportunities to improve or automate the business processes
 
-### Aurubis Buffalo, Inc.
-***Data Scientist (Capstone Project)***
+### Oklahoma State University
+***Data Analyst***
 
-*February 2020 – May 2020, Rochester, NY*
+*May 2019 – Aug 2019, Stillwater, OK*
 
-- Developed data preprocessing and regression pipeline to predict yield percentage from production of coils into finished products. The developed LightGBM regressor achieved highly accurate predictions with 4% MAE, improving scheduling efficiency and significantly lowering production and inventory cost.
-- Performed data labeling, data exploration, data cleaning, feature engineering on coil history, and hyperparameter tuning with cross validation to optimize accuracy of regressor.
-- Built web app to deploy developed pipeline that can quickly generate yield predictions for future production.
-
-### Tax Technologies, Inc.
-***Tax Intern***
-
-*March 2019 – July 2019, Buffalo, NY*
-
-Provided technical supports to Fortune 500 clients utilizing Tax Series – TTI’s flagship product, an all-inclusive SaaS global data collection, tax compliance and provision software.
-
-- Assisted on implementation engagements for new clients, including performing data collection, integration and setup in Tax Series.
-- Conducted essential application diagnostics on client financial data, including periodically generating technical reports, maintaining data integrity and monitoring client databases.
-- Conducted in-depth research on tax forms and e-file requirements in 32 states and four foreign countries, helping develop annual enhancement release for Tax Series.
-- Performed application testing to determine if software worked as designed, logged technical reports and collaborated with software engineers to build enhancement update for Tax Series.
-- Proposed new changes in priority system and data visualization that improved overall efficiency of ticket support reporting.
-
-### Niagara University - Academic Success Center
-***Statistics Tutor***
-
-*August 2018 - December 2018, Lewiston, NY*
-
-- Tutored nine students in statistics, business analytics and accounting courses.
-- Helped students understand class materials, complete homework and build effective study strategies.
-- Rated Excellent in all criteria by eight out of nine students.
-
-### Business Analytics Competition & Conference 2018 @ Manhattan College
-***Data Analytics Team Leader***
-
-*February 2018 - May 2018, New York, NY*
-
-In three-month research and two-day hackathon, led a team of four students to discover insights from NYC and Boston government data sets and won runner-up prize for best research poster out of 18 participating colleges.
-
-*Read more: [News](https://news.niagara.edu/news/show/niagara-university-team-competes-at-data-analytics-competition-in-nyc), [Research Poster](https://chriskhanhtran.github.io/minimal-portfolio/pdf/bac2018.pdf)*
-
-- Cleaned up (missing data, outlier detection, duplications) and integrated (merge, join, subset) large data sets (6 million records) of governmental spending, contracts and KPI metrics.
-- Utilized Python and Tableau to perform exploratory data analysis and visualization on payroll distribution and minority-owned businesses’ participation in government contracts.
-- Built and ran linear models on SPSS to determine socioeconomic factors affecting government spending.
-- Applied statistical techniques to predict government KPI metrics, crime rate and education quality.
-- Presented research findings before data scientists and Wall Street veterans.
+- Supported teaching faculties in department of statistics on a research project that aims to evaluate the overall
+performance of undergraduate students enrolled in statistical courses through data analysis and statistical modeling
+- Utilized R studio to perform exploratory data analysis, such as, data visualization and missing value imputation
+- Trained three statistical models (linear, logistic and ordinal regression) to detect the influential features on students’
+course performance, and proposed suggestions that led to 26% increase in the course pass rate
 
 ## 🎓 Education
-### University of Rochester
-**Master of Science in Business Analytics (STEM), 2020**
-- GPA: 3.96/4.00
-- Coursework: Core Statistics, R Programming, Predictive Analytics with Python (Machine Learning), Causal Analytics with R (A/B Testing), Social Media Analytics (NLP), Database Management (SQL, Cypher), Big Data (Hive, Spark), Pricing Analytics
+### Oklahoma State University
+**Doctor of Philosophy (Ph.D.) in Statistics**
 
-### Niagara University
-**Bachelor of Business Administration in Accounting, 2019**
-- GPA: 3.99/4.00, *summa cum laude*
-- Dean's List (all attended semesters); Top 5 student in the Accounting department
-- Coursework: Business Analytics, Linear Models, Management Information Systems, Econometrics
+*Aug 2016 – Dec 2021, Stillwater, OK*
 
-## 📝 Projects and Articles
-I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my [blog](https://chriskhanhtran.github.io/posts/) and [portfolio](https://chriskhanhtran.github.io/portfolio/) for more details.
+- Coursework: Advanced Calculus, Real Analysis, Experimental Designs, Statistical Inference, Statistical Computing, Multivariate Analysis, Probability Theory, Advanced Statistical Inference, Large Sample Inference
+
+### Rochester Institute of Technology
+**Master of Science (M.S.) in Applied Statistics**
+
+*Aug 2014 – May 2016, Rochester, NY*
+
+- Coursework: Statistical Software, Regression Analysis, Theory of Statistics, Principles Stats Data Mining, Time Series
+
+### Hangzhou Dianzi University
+**Bachelor of Economics (B.Ec) in Statistics**
+
+*Sep 2009 – May 2013, Hangzhou, Zhejiang, China*
+
+- Coursework: Linear Algebra, Higher Mathematics, Sampling Theory
+
+## 📝 Research Experience
+### Ph.D. Research - Parameter Estimation with Monte Carlo Sampling
+
+- Developed a parameter estimation algorithm for economic models based on EM (Expectation-Maximization) algorithm
+and Monte Carlo sampling, which reduced the computation time by 60% and improved the performance by 70%
+- Ph.D. Dissertation: [Maximum likelihood estimation under efficient importance sampling for non-linear state space models](https://shareok.org/handle/11244/335744)
+
+### M.S. Research - Singer Identification with Statistical Modeling
+
+- Employed R studio to build a Gaussian mixture model for the detection of singers’ identity based on singing voice data,
+achieving 96% identification accuracy which is 16% higher than the models based on machine learning techniques
+- M.S. Thesis: [Statistical Approaches for Signal Processing with Application to Automatic Singer Identification](https://scholarworks.rit.edu/theses/9138/)
 
 ## 🤖 Skills
-- **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), Big Data (Spark, Hive), R, SQL, Cypher, MATLAB
+- **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), Big Data (Spark, Hive), R, SQL, MATLAB, Visual Studio Code, Anaconda, Jupyter
+- **Statistics:** Statistical Theory, Probability Distribution, Hypothesis Test, A/B Testing, Regression Modeling, Data Mining
+- **Machine Learning:**  Linear Regression, Logistic Regression, Naive Bayes, KNN, SVM, Decision Trees, Random Forest, AdaBoost, Gradient Boost, XGBoost, Neural Networks, K-means, Hierarchical clustering, DBSCAN, PCA, Isolation Forest
 - **NLP:** Named Entity Recognition, Sentiment Analysis, Machine Translation, Summarization
 - **Others:** 
-  - Cloud Computing: AWS EC2, GCP
+  - Cloud Computing: Amazon Web Service (AWS)
   - Visualization: Tableau, Matplotlib, Seaborn
   - Statistical Tools: SAS, SPSS, Excel
-  - Design and Video Editing: Adobe Photoshop, Lightroom, Premiere
