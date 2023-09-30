@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/about-header-1566x403.jpg 
+  image: /assets/images/header.png
 ---
 
 <img src="https://yangshiteng.github.io/assets/images/about-me.png" width="1000">{: .align-center}
