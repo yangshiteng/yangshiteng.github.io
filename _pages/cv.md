@@ -11,7 +11,7 @@ toc_icon: "bookmark"
 
 ## 📧 Contact
 - Email: [yangshiteng007@gmail.com](mailto:yangshiteng007@gmail.com)
-- LinkedIn: [linkedin.com/in/chriskhanhtran/](https://www.linkedin.com/in/shiteng-yang-173939102/)
+- LinkedIn: [https://www.linkedin.com/in/shiteng-yang-173939102/](https://www.linkedin.com/in/shiteng-yang-173939102/)
 
 ## 💼 Experience
 ### Amrock, LLC
