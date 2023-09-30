@@ -5,13 +5,13 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-[Download Resume](https://chriskhanhtran.github.io/files/20200812-resume.pdf){: .btn .btn--info}
+[Download Resume](https://github.com/yangshiteng/yangshiteng.github.io/blob/master/files/Shiteng_Yang_Resume.pdf){: .btn .btn--info}
 
-*Updated: 08/12/2020*
+*Updated: 09/30/2023*
 
 ## 📧 Contact
-- Email: [tranduckhanh96@gmail.com]()
-- LinkedIn: [linkedin.com/in/chriskhanhtran/](https://www.linkedin.com/in/chriskhanhtran/)
+- Email: [yangshiteng007@gmail.com](mailto:yangshiteng007@gmail.com)
+- LinkedIn: [linkedin.com/in/chriskhanhtran/](https://www.linkedin.com/in/shiteng-yang-173939102/)
 
 ## 💼 Experience
 ### Etsy, Inc.
