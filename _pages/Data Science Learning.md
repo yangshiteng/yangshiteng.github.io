@@ -1,6 +1,6 @@
 ---
 title: "My Data Science Learning Path"
-permalink: /cv/
+permalink: /ds/
 toc: true
 toc_label: "Table of Contents"
 toc_sticky: true
