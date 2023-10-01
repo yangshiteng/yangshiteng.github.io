@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Data Science Learning"
+    url: /ds/
   - title: "Projects"
     url: /projects/
   - title: "CV"
