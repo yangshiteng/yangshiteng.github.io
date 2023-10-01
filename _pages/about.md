@@ -1,4 +1,5 @@
 ---
+title: "About"
 permalink: /about/
 header:
   image: /assets/images/header.png
@@ -6,6 +7,11 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
+
+<img src="https://yangshiteng.github.io/assets/images/about-me.png" width="1000">{: .align-center}
+
+[Resume](https://yangshiteng.github.io/cv/){: .btn .btn--info} [Portfolio](https://yangshiteng.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/shiteng-yang-173939102/){: .btn .btn--info}
+{: .text-center}
 
 ## About Me
 I am a dedicated and innovative Data Scientist with nearly two years of experience at Amrock, a forefront title insurance company in Detroit. My role at Amrock revolves around leveraging Python and SQL to extract and wrangle large datasets, perform insightful data visualizations, and develop predictive models using advanced statistical and machine learning techniques. My responsibilities also extend to drafting detailed documentation and reports, providing actionable business insights to stakeholders, and contributing to the development of data-driven decision-making platforms.
@@ -15,11 +21,6 @@ Prior to my role at Amrock, I accomplished my Ph.D. in Statistics from Oklahoma 
 My foundation in statistics and data science is built upon a solid theoretical understanding and practical knowledge acquired through academic pursuits and industry experience. Passionate about continuous learning, I am committed to enhancing my skills in Python and SQL coding, machine learning, deep learning, and communication to foster effective team collaboration. I believe in the endless pursuit of knowledge as the catalyst for success in a data science career, and I continuously strive for professional and personal development to stay abreast of industry advancements.
 
 In my leisure time, I craft detailed study plans focusing on technology mastery and collaborative skills enhancement, ensuring perpetual growth and adaptability in the dynamic field of data science. My journey at Amrock has not only sharpened my technical acumen but also molded me into a team player, eager to contribute to collective goals and objectives.
-
-<img src="https://yangshiteng.github.io/assets/images/about-me.png" width="1000">{: .align-center}
-
-[Resume](https://yangshiteng.github.io/cv/){: .btn .btn--info} [Portfolio](https://yangshiteng.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/shiteng-yang-173939102/){: .btn .btn--info}
-{: .text-center}
 
 ## Hobbies
 ### Cooking
