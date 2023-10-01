@@ -3,6 +3,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 toc: true
 toc_label: "Table of Contents"
+toc_sticky: true
 toc_icon: "bookmark"
 ---
 [Download Resume](https://github.com/yangshiteng/yangshiteng.github.io/blob/master/files/Shiteng_Yang_Resume.pdf){: .btn .btn--info}
