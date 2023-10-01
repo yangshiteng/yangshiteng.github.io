@@ -1,4 +1,5 @@
 ---
+title: "About"
 permalink: /about/
 header:
   image: /assets/images/header.png
@@ -12,7 +13,6 @@ toc_icon: "bookmark"
 [Resume](https://yangshiteng.github.io/cv/){: .btn .btn--info} [Portfolio](https://yangshiteng.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/shiteng-yang-173939102/){: .btn .btn--info}
 {: .text-center}
 
-## About Me
 I am a dedicated and innovative Data Scientist with nearly two years of experience at Amrock, a forefront title insurance company in Detroit. My role at Amrock revolves around leveraging Python and SQL to extract and wrangle large datasets, perform insightful data visualizations, and develop predictive models using advanced statistical and machine learning techniques. My responsibilities also extend to drafting detailed documentation and reports, providing actionable business insights to stakeholders, and contributing to the development of data-driven decision-making platforms.
 
 Prior to my role at Amrock, I accomplished my Ph.D. in Statistics from Oklahoma State University and hold a Master’s in Applied Statistics from Rochester Institute of Technology. During my academic journey, I accumulated seven years of experience in studying, working, and researching, including a stint as a Data Analyst, where I employed R programming for exploratory data analysis and model development.
