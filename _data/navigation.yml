@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "statistics"
-    url: /stats/
   - title: "machine_learning"
     url: /ml/
   - title: "deep_learning"
