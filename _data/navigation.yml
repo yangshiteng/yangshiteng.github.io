@@ -1,7 +1,15 @@
 # main links
 main:
-  - title: "Data Science Learning"
-    url: /ds/
+  - title: "statistics"
+    url: /stats/
+  - title: "machine_learning"
+    url: /ml/
+  - title: "deep_learning"
+    url: /dl/
+  - title: "programming"
+    url: /programming/
+  - title: "AWS"
+    url: /aws/
   - title: "Projects"
     url: /projects/
   - title: "CV"
