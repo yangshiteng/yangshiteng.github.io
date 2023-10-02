@@ -1,5 +1,5 @@
 ---
-title: "Statistics Learning"
+title: "Statistics"
 permalink: /stats/
 toc: true
 toc_label: "Table of Contents"
