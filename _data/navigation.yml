@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "machine_learning"
+  - title: "Machine Learning"
     url: /ml/
-  - title: "deep_learning"
+  - title: "Deep Learning"
     url: /dl/
-  - title: "programming"
+  - title: "Programming"
     url: /programming/
   - title: "AWS"
     url: /aws/
@@ -12,5 +12,3 @@ main:
     url: /projects/
   - title: "CV"
     url: /cv/
-  - title: "About"
-    url: /about/
